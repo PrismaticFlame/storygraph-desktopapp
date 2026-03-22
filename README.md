@@ -20,7 +20,7 @@ Go to the [Releases page](https://github.com/PrismaticFlame/storygraph-desktopap
 Prerequisites: [Rust](https://rustup.rs) and the 
 [Tauri CLI](https://tauri.app/start/prerequisites/)
 ```bash
-git clone https://github.com/you/storygraph-app
+git clone https://github.com/you/storygraph-desktopapp
 cd storygraph-app
 cargo tauri dev
 ```
