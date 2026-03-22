@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StoryGraph Desktop</title>
+  <link rel="icon" type="image/png" href="../src-tauri/icons/32x32.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="../src-tauri/icons/32x32.png" alt="StoryGraph icon" class="nav-icon" />
+      <span class="nav-title">StoryGraph Desktop</span>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-text">
+        <img src="../src-tauri/icons/StoryGraphLogo512x512.png" alt="StoryGraph logo" class="hero-logo" />
+        <h1>StoryGraph Desktop</h1>
+        <p class="tagline">Your reading life, always at hand.</p>
+        <p class="description">
+          A lightweight desktop wrapper for <a href="https://app.thestorygraph.com" target="_blank">TheStoryGraph</a>,
+          sitting quietly in your system tray so your reading tracker is never more than a click away.
+        </p>
+        <section class="links">
+            <a href="https://github.com/PrismaticFlame/storygraph-desktopapp/releases" target="_blank" class="download-btn">
+                Download for Windows
+            </a>
+            <a href="https://github.com/PrismaticFlame/storygraph-desktopapp" target="_blank" class="website-btn">
+                Visit the Repo
+            </a>
+        </section>
+      </div>
+      <div class="hero-image">
+        <img src="storygraph_desktopapp_app.png" alt="StoryGraph Desktop app screenshot" />
+      </div>
+    </section>
+
+    <section class="features">
+      <div class="feature">
+        <img src="../src-tauri/icons/Square44x44Logo.png" alt="" class="feature-icon" />
+        <h3>Lives in the tray</h3>
+        <p>Closing the window doesn't quit the app — it stays in your system tray, ready when you are.</p>
+      </div>
+      <div class="feature">
+        <img src="../src-tauri/icons/Square44x44Logo.png" alt="" class="feature-icon" />
+        <h3>Launch at startup</h3>
+        <p>Optionally start with Windows, silently in the background. No window popup, just the tray icon.</p>
+      </div>
+      <div class="feature">
+        <img src="../src-tauri/icons/Square44x44Logo.png" alt="" class="feature-icon" />
+        <h3>Lightweight</h3>
+        <p>Built with Tauri — a tiny native binary that loads the full StoryGraph web app without the browser overhead.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Not affiliated with The StoryGraph. &nbsp;·&nbsp;
+      <a href="https://app.thestorygraph.com" target="_blank">Visit StoryGraph</a>
+    </p>
+  </footer>
+</body>
+</html>
