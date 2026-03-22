@@ -3,9 +3,11 @@
 A lightweight desktop wrapper for [StoryGraph](https://app.thestorygraph.com).
 Sits in your system tray for quick access without opening a browser.
 
+Not affliated with the official TheStoryGraph.
+
 ## Download
 
-Go to the [Releases page](https://github.com/PrismaticFlame/storygraph-app/releases) and download the file for your OS:
+Go to the [Releases page](https://github.com/PrismaticFlame/storygraph-desktopapp/releases) and download the file for your OS:
 
 | OS | File to download |
 | --- | --- |
