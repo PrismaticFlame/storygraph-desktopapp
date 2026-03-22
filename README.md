@@ -21,6 +21,6 @@ Prerequisites: [Rust](https://rustup.rs) and the
 [Tauri CLI](https://tauri.app/start/prerequisites/)
 ```bash
 git clone https://github.com/you/storygraph-desktopapp
-cd storygraph-app
+cd storygraph-desktopapp
 cargo tauri dev
 ```
