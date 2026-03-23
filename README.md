@@ -5,6 +5,8 @@ Sits in your system tray for quick access without opening a browser.
 
 Not affliated with the official TheStoryGraph.
 
+Website [here](https://prismaticflame.github.io/storygraph-desktopapp/).
+
 ## Download
 
 Go to the [Releases page](https://github.com/PrismaticFlame/storygraph-desktopapp/releases) and download the file for your OS:
